@@ -1,9 +1,9 @@
 <h1> GOPINADH!!!!   </h1>
 <h2> 
 Azure Cloud/DevOps engineer
-Contact: (724) 410 8888	             	       			                                  Email: gopi.nadh38@gmail.com
+Contact: (724) 410 8888	             	       			                                  Email: gopi.nadh38@gmail.com </h2>
 
-SUMMARY:
+<h3>SUMMARY:
 Have 8 Years of experience in Cloud Computing (AWS, Azure), DevOps Engineering that includes Software Configuration Management (SCM), CI/CD process, Automation and Release Management, Linux and Windows System Administration.
 Excellent Experience with Source Code Management (SCM) tools like Subversion (SVN), GIT/ GITHUB.
 Experience in Systems Administration (Installation, Configuration, Tuning and Upgrades of Linux (RedHat, Ubuntu), Windows, UNIX platforms.
@@ -33,5 +33,5 @@ Experience in working on version control systems like GIT, Subversion, and used 
 Experienced in Querying RDBMS such as Oracle, MY SQL and SQL Server.
 Understanding of Web Services and API development SOAP and REST.
 Knowledge of designing and implementing cloud-based solutions, including private, community, hybrid and public cloud deployment models.
-Developed architectural standards, engineering standards, and precision engagement plans to accelerate engineering migrations to AWS and Azure. </h2>
-<h3> Glad to see you here </h3>
+Developed architectural standards, engineering standards, and precision engagement plans to accelerate engineering migrations to AWS and Azure. 
+ Glad to see you here </h3>
